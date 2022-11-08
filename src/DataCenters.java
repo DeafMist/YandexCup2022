@@ -19,7 +19,7 @@ public class DataCenters {
 
     private static Map<Integer, Pair> map = new HashMap<>();
 
-    public static void task1(String[] args) {
+    public static void task1() {
         Scanner scanner = new Scanner(System.in);
         n = scanner.nextInt();
         m = scanner.nextInt();

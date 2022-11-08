@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class NumberSystems {
-    public static void task3(String[] args) {
+    public static void task3() {
         Scanner scanner = new Scanner(System.in);
 
         String line = scanner.nextLine();
